@@ -1,1 +1,3 @@
-# calculadorPython
+# Calculadora em Python
+
+## Escrevi este código simples afim de obter conhecimentos na linguagem Python. A ideia é simular uma calculadora. O objetivo deste projeto foi também de aprender as sintaxes de condicionais, estruturas de repetição e definição de funções. Ainda existem pontos a melhorar...
