@@ -1,5 +1,4 @@
-executando = True
-while(executando):
+while(True):
     print('Bem-vindo à Calculadora em Python\n\n')
     
     print('Aperte "Q" no OPERADOR para SAIR!\n')
